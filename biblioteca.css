@@ -1,0 +1,22 @@
+body{
+    background-color: #D2BBA0;
+}
+
+.navbar{
+    background-color: #9F7E69;
+}
+
+.slide{
+    margin-top: 30px;
+}
+
+.footer{
+    background-color: #9F7E69;
+}
+
+.centrali{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
